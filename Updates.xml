@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.zeinab.hello</Name>
+  <DisplayName>Zeinab</DisplayName>
+  <Description>This program for Phoenix installer.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2025-08-04</ReleaseDate>
+  <Default>true</Default>
+  <Icon>phoenix.ico</Icon>
+  <UpdateFile CompressedSize="25197671" OS="Any" UncompressedSize="90646483"/>
+  <DownloadableArchives>generic.7z,hello.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="Beer Public License Agreement"/>
+  </Licenses>
+  <SHA1>2f45369402e39c190a832189283a0c8da6dd3ee9</SHA1>
+ </PackageUpdate>
+ <SHA1>059f606ce1d5843ad695f57aff05f823a9289fc4</SHA1>
+ <MetadataName>2025-08-06-2119_meta.7z</MetadataName>
+</Updates>
